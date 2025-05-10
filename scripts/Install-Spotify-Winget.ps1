@@ -21,13 +21,13 @@ function Test-Winget {
 }
 
 # Function to install Google Chrome using winget
-function Install-Chrome {
+function Install-Spotify {
     if (Get-Command winget -ErrorAction SilentlyContinue) {
-        Write-Host "Installing Google Chrome silently via winget..."
-        winget install --id=Google.Chrome --silent --accept-package-agreements --accept-source-agreements
-        Write-Host "Google Chrome installation complete."
+        Write-Host "Installing Spotify silently via winget..."
+        winget install --id=Spotify.Spotify --silent --accept-package-agreements --accept-source-agreements
+        Write-Host "Spotify installation complete."
     } else {
-        Write-Host "winget is still unavailable after repair attempt. Aborting Chrome installation."
+        Write-Host "winget is still unavailable after repair attempt. Aborting Spotify installation."
     }
 }
 
@@ -36,4 +36,4 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 
 # Run the functions
 Test-Winget
-Install-Chrome
+Install-Spotify
