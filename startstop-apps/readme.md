@@ -6,11 +6,9 @@ This folder contains two PowerShell scripts for starting and stopping the web ap
 
 ### `start-apps.ps1`
 This script will **start** the following web apps:
-- `nmw-ccl-app-fff87`
-- `nmw-app-kulf6gmswlqqy`
+- `nmw-app-72db5tuhrtrs4`
 
 ### `stop-apps.ps1`
 This script will **stop** the following web apps:
-- `nmw-ccl-app-fff87`
-- `nmw-app-kulf6gmswlqqy`
+- `nmw-app-72db5tuhrtrs4`
 
