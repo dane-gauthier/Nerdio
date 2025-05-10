@@ -1,6 +1,6 @@
 # Nerdio Start/Stop
 
-This folder contains two PowerShell scripts for starting and stopping the web app that run Nerdio.
+This folder contains two PowerShell scripts for starting and stopping the web app that runs Nerdio.
 
 ## Scripts
 
