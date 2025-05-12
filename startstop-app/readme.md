@@ -1,14 +1,14 @@
-# Nerdio Start/Stop
-
-This folder contains two PowerShell scripts for starting and stopping the web app that runs Nerdio.
+# Control Script for Nerdio Web Services
+Scripts in this directory handle the start and stop processes for the web app hosting Nerdio.
 
 ## Scripts
 
-### `start-apps.ps1`
-This script will **start** the following web apps:
+### `start-app.ps1`
+This PowerShell script **starts** the Nerdio web app instance:
+
 - `nmw-app-72db5tuhrtrs4`
 
-### `stop-apps.ps1`
-This script will **stop** the following web apps:
+### `stop-app.ps1`
+This PowerShell script **stops** the Nerdio web app instance:
 - `nmw-app-72db5tuhrtrs4`
 
