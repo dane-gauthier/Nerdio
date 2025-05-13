@@ -16,38 +16,42 @@ Customize the values below as desired.
 
 # ================ Customize the Appx To remove here. If an Appx is desired, delete the line to keep it installed.
 $AppxPackages = @"
-Microsoft.BingWeather,"https://www.microsoft.com/en-us/p/msn-weather/9wzdncrfj3q2"
-Microsoft.GetHelp,"https://docs.microsoft.com/en-us/windows-hardware/customize/desktop/customize-get-help-app"
-Microsoft.Getstarted,"https://www.microsoft.com/en-us/p/microsoft-tips/9wzdncrdtbjj"
-Microsoft.Messaging,"https://www.microsoft.com/en-us/p/microsoft-messaging/9wzdncrfjbq6"
-Microsoft.MicrosoftOfficeHub,"https://www.microsoft.com/en-us/p/office/9wzdncrd29v9"
-Microsoft.MicrosoftSolitaireCollection,"https://www.microsoft.com/en-us/p/microsoft-solitaire-collection/9wzdncrfhwd2"
-Microsoft.MicrosoftStickyNotes,"https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw"
-Microsoft.MixedReality.Portal,"https://www.microsoft.com/en-us/p/mixed-reality-portal/9ng1h8b3zc7m"
-Microsoft.Office.OneNote,"https://www.microsoft.com/en-us/p/onenote/9wzdncrfhvjl"
-Microsoft.People,"https://www.microsoft.com/en-us/p/microsoft-people/9nblggh10pg8"
-Microsoft.Print3D,"https://www.microsoft.com/en-us/p/print-3d/9pbpch085s3s"
-Microsoft.SkypeApp,"https://www.microsoft.com/en-us/p/skype/9wzdncrfj364"
-Microsoft.Wallet,"https://www.microsoft.com/en-us/payments"
-Microsoft.Windows.Photos,"https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4"
-Microsoft.Microsoft3DViewer,"https://www.microsoft.com/en-us/p/3d-viewer/9nblggh42ths"
-Microsoft.WindowsAlarms,"https://www.microsoft.com/en-us/p/windows-alarms-clock/9wzdncrfj3pr"
-Microsoft.WindowsCalculator,"https://www.microsoft.com/en-us/p/windows-calculator/9wzdncrfhvn5"
-Microsoft.WindowsCamera,"https://www.microsoft.com/en-us/p/windows-camera/9wzdncrfjbbg"
-microsoft.windowscommunicationsapps,"https://www.microsoft.com/en-us/p/mail-and-calendar/9wzdncrfhvqm"
-Microsoft.WindowsFeedbackHub,"https://www.microsoft.com/en-us/p/feedback-hub/9nblggh4r32n"
-Microsoft.WindowsMaps,"https://www.microsoft.com/en-us/p/windows-maps/9wzdncrdtbvb"
-Microsoft.WindowsSoundRecorder,"https://www.microsoft.com/en-us/p/windows-voice-recorder/9wzdncrfhwkn"
-Microsoft.Xbox.TCUI,"https://docs.microsoft.com/en-us/gaming/xbox-live/features/general/tcui/live-tcui-overview"
-Microsoft.XboxApp,"https://www.microsoft.com/store/apps/9wzdncrfjbd8"
-Microsoft.XboxGameOverlay,"https://www.microsoft.com/en-us/p/xbox-game-bar/9nzkpstsnw4p"
-Microsoft.XboxGamingOverlay,"https://www.microsoft.com/en-us/p/xbox-game-bar/9nzkpstsnw4p"
-Microsoft.XboxIdentityProvider,"https://www.microsoft.com/en-us/p/xbox-identity-provider/9wzdncrd1hkw"
-Microsoft.XboxSpeechToTextOverlay,"https://support.xbox.com/help/account-profile/accessibility/use-game-chat-transcription"
-Microsoft.YourPhone,"https://www.microsoft.com/en-us/p/Your-phone/9nmpj99vjbwv"
-Microsoft.ZuneMusic, "https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt"
-Microsoft.ZuneVideo,"https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2"
-Microsoft.ScreenSketch,"https://www.microsoft.com/en-us/p/snip-sketch/9mz95kl8mr0l"
+Clipchamp.Clipchamp
+Microsoft.BingNews,  
+Microsoft.BingSearch,  
+Microsoft.BingWeather,  
+Microsoft.GamingApp,  
+Microsoft.GetHelp,  
+Microsoft.Getstarted,  
+Microsoft.Messaging,  
+Microsoft.Microsoft3DViewer,  
+Microsoft.MicrosoftOfficeHub,  
+Microsoft.MicrosoftSolitaireCollection,  
+Microsoft.MicrosoftStickyNotes,  
+Microsoft.MixedReality.Portal,  
+Microsoft.Office.OneNote,  
+Microsoft.People,  
+Microsoft.Print3D,  
+Microsoft.ScreenSketch,  
+Microsoft.SkypeApp,  
+Microsoft.Wallet,  
+Microsoft.Windows.Photos,  
+Microsoft.WindowsAlarms,  
+Microsoft.WindowsCamera,  
+Microsoft.WindowsFeedbackHub,  
+Microsoft.WindowsMaps,  
+Microsoft.WindowsSoundRecorder,  
+Microsoft.Xbox.TCUI,  
+Microsoft.XboxApp,  
+Microsoft.XboxGameOverlay,  
+Microsoft.XboxGamingOverlay,  
+Microsoft.XboxIdentityProvider,  
+Microsoft.XboxSpeechToTextOverlay,  
+Microsoft.YourPhone,  
+Microsoft.ZuneMusic,  
+Microsoft.ZuneVideo,  
+microsoft.windowscommunicationsapps,
+
 "@
 
 # ================ Customize the Services To remove here. If a service is desired, delete the line.
