@@ -2,7 +2,7 @@ This folder includes PowerShell scripts to change the power state and sizing of 
 
 ## Scripts
 
-### `dc-scale-down.ps1`
+### [dc-scale-down.ps1](./dc-scale-down.ps1)
 Scales **down** the DC VM to a smaller size.
 
 - **Checks current size** and does nothing if already scaled.
@@ -12,7 +12,7 @@ Scales **down** the DC VM to a smaller size.
 
 ---
 
-### `dc-scale-up.ps1`
+### [dc-scale-up.ps1](./dc-scale-up.ps1)
 Scales **up** the DC VM to a larger size.
 
 - **Checks current size** and does nothing if already scaled.
@@ -22,7 +22,7 @@ Scales **up** the DC VM to a larger size.
 
 ---
 
-### `dc-start.ps1`
+### [dc-start.ps1](./dc-start.ps1)
 Starts the DC VM if it's deallocated.
 
 - Checks the current power state.
@@ -30,7 +30,7 @@ Starts the DC VM if it's deallocated.
 
 ---
 
-### `dc-stop.ps1`
+### [dc-stop.ps1](./dc-stop.ps1)
 Stops (deallocates) the DC VM if it's running.
 
 - Checks the current power state.
