@@ -1,5 +1,3 @@
-# Nerdio Lab
-
 This folder includes PowerShell scripts to change the power state and sizing of a domain controller VM.
 
 ## Scripts
